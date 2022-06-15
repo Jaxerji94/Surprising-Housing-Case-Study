@@ -1,6 +1,6 @@
-# Surprising housing case study
-> model the price of houses with the available independent variables. This model will then be used by the management to understand how exactly the prices vary with the variables. They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
-
+# Project Name
+> Outline a brief description of your project.
+CNN for skin cancer image classification
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -28,22 +28,21 @@
 
 
 ## Technologies Used
-- pandas
-- numpy
-- scikit-learn
-- statsmodels
+- library - version 1.0
+- library - version 2.0
+- library - version 3.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by upgrad
-
+- This project was inspired by...
+- References if any...
 - This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
-Created by [@Jaxerji94] - feel free to contact me!
+Created by [@githubusername] - feel free to contact me!
 
 
 <!-- Optional -->
